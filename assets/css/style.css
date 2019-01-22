@@ -2,10 +2,12 @@ body {
 	background-image: url('../images/movie-theater.jpg');
 	background-size: contain;
 	background-repeat: no-repeat;
-	width: 500px;
-	height: 300px;
+	width: 100px;
+	height: 600px;
 	color: white;
 	font-family: sans-serif;
+	background-color: black;
+	font-size: 30px;
 }
 
 #word {
@@ -15,21 +17,21 @@ body {
 
 #container{
 	position: absolute;
-	left: 180px;
-	top: 75px;
+	left: 360px;
+	top: 150px;
 }
 
 #poster {
 	position: absolute;
-	height: 97px;
-	left: 60px;
+	height: 200px;
+	left: 120px;
 }
 
 #instructions {
 	position: absolute;
-	left: 180px;
+	left: 360px;
 }
 
 #text {
-	margin-top: 10px;
+	margin-top: 20px;
 }
