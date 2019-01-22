@@ -1,0 +1,35 @@
+body {
+	background-image: url('../images/movie-theater.jpg');
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 500px;
+	height: 300px;
+	color: white;
+	font-family: sans-serif;
+}
+
+#word {
+	font-family: monospace;
+	letter-spacing: 5px;
+}
+
+#container{
+	position: absolute;
+	left: 180px;
+	top: 75px;
+}
+
+#poster {
+	position: absolute;
+	height: 97px;
+	left: 60px;
+}
+
+#instructions {
+	position: absolute;
+	left: 180px;
+}
+
+#text {
+	margin-top: 10px;
+}
